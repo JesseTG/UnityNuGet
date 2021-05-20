@@ -393,5 +393,9 @@
   "Telnet": {
     "listed": true,
     "version": "0.8.6"
+  },
+  "Validation": {
+    "listed": true,
+    "version": "2.4.22"
   }
 }
